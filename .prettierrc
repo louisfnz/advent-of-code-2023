@@ -1,0 +1,13 @@
+{
+  "semi": true,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "printWidth": 100,
+  "bracketSpacing": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "editor.formatOnSave": true,
+  "prettier.semi": true,
+  "prettier.eslintIntegration": true,
+  "jsxBracketSameLine": false
+}
