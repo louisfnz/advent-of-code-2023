@@ -40,6 +40,9 @@ export const part1 = (input: string) => {
           break;
         }
       }
+      if (!valid) {
+        break;
+      }
     }
     if (valid) {
       result += game.id;
